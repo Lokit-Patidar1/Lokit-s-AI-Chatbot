@@ -1,0 +1,41 @@
+Lokit Patidar's Achievements, Recognitions, and Milestones:
+
+MAJOR ACHIEVEMENT:
+
+1. Amazon ML Summer School 2025 — SELECTED PARTICIPANT
+   - Programme: Amazon ML Summer School 2025
+   - Date: August 2025
+   - Format: Remote
+   - Lokit was selected among thousands of applicants across India for Amazon's flagship Machine Learning training programme — one of the most competitive ML initiatives in the country.
+   - During the programme, Lokit:
+     • Developed advanced applied expertise across 15+ ML and NLP problem statements focused on real-world production scenarios.
+     • Built models using datasets exceeding 100,000+ records, improving robustness under noisy real-world data conditions.
+     • Optimized algorithm selection using metric-driven benchmarking, improving predictive performance by up to 18%.
+   - This selection is a testament to Lokit's strong ML fundamentals and his standing among India's top AI/ML talent.
+
+CERTIFICATIONS EARNED:
+2. Python 101 for Data Science — Cognitive Class (IBM)
+   - Completed a foundational Python and data science certification from IBM's Cognitive Class platform.
+
+3. Deloitte Data Analytics Job Simulation — Forage
+   - Successfully completed Deloitte's virtual job simulation, gaining hands-on experience with real-world data analytics tasks as performed at a Big 4 consulting firm.
+
+PROJECT IMPACT MILESTONES:
+4. TalentScout – GenAI Hiring Assistant
+   - Reduced recruiter workload by 70% through automation.
+   - Analyzed 5,000+ candidate sentiment responses.
+   - Processed and standardized 1,200+ candidate profiles.
+   - Achieved 2.3× higher session completion rates.
+   - Increased evaluation precision by 35%.
+
+5. Automated ML Pipeline
+   - Cut model development time by 55%.
+   - Reduced manual EDA effort by 60%.
+   - Successfully processed and validated datasets up to 500,000 rows.
+   - Lowered variance-related errors by 22% through consistent preprocessing.
+
+TECHNICAL MILESTONES:
+6. Built a complete end-to-end RAG-based AI chatbot (Lokit AI) as a portfolio project using LangChain, FAISS, Sentence-Transformers, and Streamlit — representing himself professionally to recruiters.
+7. Successfully participated in Amazon ML Summer School — among thousands of candidates from across India.
+8. Completed multiple industry-recognized certifications in Python, data analytics, and ML.
+9. Independently mastered the Generative AI stack including LangChain, RAG pipelines, LLM APIs (Gemini, OpenAI, Groq), embeddings, and prompt engineering — largely through self-study and project building.

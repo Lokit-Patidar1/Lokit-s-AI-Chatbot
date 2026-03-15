@@ -1,0 +1,41 @@
+Lokit Patidar's Career Goals, Aspirations, and Vision:
+
+CURRENT SITUATION (as of 2025-2026):
+- Final year B.Tech student at Medi-Caps University (graduating May 2026).
+- Actively seeking internship and full-time opportunities in AI/ML and Generative AI.
+- Has strong hands-on experience in RAG, LangChain, LLM APIs, ML pipelines, and Streamlit app development.
+
+SHORT-TERM GOALS (Next 1-2 Years):
+- Secure a challenging and impactful role as an AI/ML Engineer, Generative AI Developer, or NLP Engineer at a product-driven company, AI startup, or research-focused organization.
+- Continue deepening expertise in LLM application development, advanced RAG architectures, and production ML systems.
+- Build and publish more open-source AI tools and projects that demonstrate real-world impact.
+- Strengthen knowledge in cloud platforms (AWS, GCP, Azure) and MLOps tooling for scalable model deployment.
+- Contribute to open-source AI/ML frameworks and community projects on GitHub.
+- Earn industry-recognized certifications in cloud computing or advanced ML.
+
+MID-TERM GOALS (Next 3-5 Years):
+- Grow into a senior AI/ML Engineer or technical lead role, owning complex AI systems end-to-end.
+- Deepen expertise at the intersection of Generative AI and a specific high-impact domain such as healthcare, education, or enterprise productivity.
+- Potentially pursue a Master's degree (M.Tech or M.S.) in Artificial Intelligence or Computer Science at a reputed institution in India or abroad.
+- Establish a strong professional presence through GitHub contributions, technical blog writing, or conference participation.
+- Mentor junior engineers and give back to the developer community.
+
+LONG-TERM VISION:
+- Lokit aspires to work on frontier AI systems — models and applications that push the boundaries of what intelligent technology can do.
+- He wants to play a meaningful role in making AI more accessible, reliable, and beneficial for everyday people and organizations.
+- He is interested in responsible AI development — ensuring AI systems are explainable, fair, and trustworthy (as shown by his interest in SHAP and model explainability).
+- In the long run, Lokit is open to founding or co-founding a technology venture that applies AI to solve a meaningful, real-world problem.
+
+IDEAL WORK ENVIRONMENT:
+- Fast-moving, innovation-driven company or research lab.
+- Culture that values continuous learning, experimentation, and technical excellence.
+- Work on challenging problems where AI can create genuine, measurable impact.
+- Collaborative team with strong engineering culture and knowledge-sharing.
+- Mentorship from experienced ML engineers and researchers.
+
+WHAT LOKIT IS LOOKING FOR IN OPPORTUNITIES:
+- Hands-on work with LLMs, RAG systems, Generative AI tools, or cutting-edge ML models.
+- Opportunity to own and ship AI-powered products end-to-end.
+- Exposure to production-scale ML systems and real-world deployment challenges.
+- A team that values clean code, good engineering practices, and measurable outcomes.
+- Companies that invest in their employees' growth and keep pace with AI advancements.

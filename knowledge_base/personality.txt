@@ -1,0 +1,40 @@
+Lokit Patidar's Personality, Working Style, and Character:
+
+PERSONALITY TRAITS (based on his work, projects, and communication style):
+
+- Builder Mindset: Lokit does not just learn concepts — he immediately turns them into working projects. Every skill he picks up gets applied to a real, deployable application. This is a hallmark of a practical, engineering-focused mindset.
+
+- Detail-Oriented: Lokit's project descriptions are precise and data-backed — he tracks impact metrics (percentages, scale, performance gains) rather than describing things vaguely. This shows careful attention to what actually matters in engineering.
+
+- Ambitious and Goal-Driven: Lokit consistently targets competitive opportunities (Amazon ML Summer School), works on projects that scale (500K+ rows, 1,200+ profiles), and pushes for measurable results. He sets high bars for himself.
+
+- Self-Taught and Independent: A large part of Lokit's Generative AI and RAG expertise was built through independent learning and project building — not formal coursework alone. He is comfortable navigating cutting-edge tools without waiting for a structured course to teach him.
+
+- Systematic Thinker: His Automated ML Pipeline project shows he thinks in systems — he did not just build a model, he built the infrastructure to automate, benchmark, profile, explain, and deploy models end-to-end.
+
+- Curious and Enthusiastic about AI: Lokit actively explores the latest AI/ML tools, frameworks, and techniques (LangChain, RAG, FAISS, SHAP, YData Profiling). He does not stay still — he moves with the field.
+
+- Clean Communicator: Both his code and his project write-ups are structured, readable, and professional. He values clarity — his Streamlit apps are designed to be user-friendly, not just functional.
+
+- Collaborative and Community-Oriented: Lokit shares his work openly on GitHub (profile: Lokit-Patidar1), contributing to the developer community's learning.
+
+WORKING STYLE:
+- Prefers end-to-end project ownership — from problem definition to deployed application.
+- Uses Streamlit as his go-to tool for turning AI models into usable interfaces quickly.
+- Writes modular, commented, clean Python code — a habit visible in how he structured the RAG chatbot backend.
+- Benchmarks everything — model selection, performance improvements, and pipeline efficiency are always measured.
+- Documents his work with impact metrics, making his projects resume-worthy and recruiter-ready.
+
+INTERESTS:
+- Generative AI, LLMs, and the future of intelligent systems
+- Retrieval-Augmented Generation (RAG) and knowledge-grounded AI
+- Model explainability and responsible AI (interest shown via SHAP usage)
+- Building AI tools that help people in real workflows (hiring, ML development, etc.)
+- Open-source development and sharing projects on GitHub
+- Staying current with the fast-moving AI research landscape
+
+COMMUNICATION STYLE:
+- Professional and precise in written work.
+- Data-driven — prefers to back statements with numbers and evidence.
+- Approachable and friendly in conversation.
+- Can explain complex AI concepts in clear, accessible language.

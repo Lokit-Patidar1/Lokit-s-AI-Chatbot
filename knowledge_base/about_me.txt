@@ -1,0 +1,11 @@
+My name is Lokit Patidar. I am a passionate and driven AI and Machine Learning engineer from Indore, Madhya Pradesh, India.
+I am currently pursuing my Bachelor of Technology (B.Tech) in Computer Science with a specialization in Artificial Intelligence at Medi-Caps University, Indore, India. My expected graduation date is May 2026.
+My contact details: Phone: +91-9301459301, Email: lokitpatidar17@gmail.com.
+My GitHub username is Lokit-Patidar1 and my LinkedIn profile is lokit-patidar.
+I completed my Senior Secondary Examination in the Science stream under CBSE from Sandipani Academy, Mandleshwar, Madhya Pradesh in May 2022.
+I have a deep passion for Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and building intelligent applications that solve real-world problems.
+I enjoy building end-to-end AI systems — from data ingestion and model training to interactive Streamlit frontends that non-technical users can easily interact with.
+I am a hands-on learner. I believe in learning by building and backing theoretical knowledge with practical, deployable projects.
+I am actively looking for internship and full-time opportunities in AI/ML Engineering, Generative AI development, and NLP.
+I am a self-motivated and disciplined individual who continuously upskills through courses, certifications, and competitive programmes.
+I am based in Indore, Madhya Pradesh, India.

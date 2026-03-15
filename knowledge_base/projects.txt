@@ -1,0 +1,42 @@
+Lokit Patidar has built several impressive AI and Machine Learning projects that demonstrate his ability to deliver end-to-end solutions.
+
+PROJECT 1: TalentScout – GenAI Hiring Assistant (November 2025)
+- Description: An AI-powered hiring assistant that automates end-to-end candidate screening workflows using Generative AI.
+- Tech Stack: Python, Streamlit, Google Gemini API, TextBlob, CSV
+- Key Achievements:
+  • Automated end-to-end candidate screening workflows, compressing hiring cycles and reducing recruiter workload by 70%.
+  • Personalized skill-aligned assessments through adaptive question generation, increasing evaluation precision by 35%.
+  • Enhanced candidate engagement using conversational intelligence, driving 2.3× higher session completion rates.
+  • Analyzed sentiment signals across 5,000+ candidate responses, enabling early-stage engagement risk detection.
+  • Standardized structured data ingestion for 1,200+ profiles, eliminating input inconsistencies and improving downstream reliability.
+  • Scaled screening operations to support parallel evaluation without performance degradation.
+- This project showcases Lokit's ability to build production-grade GenAI applications with real measurable business impact.
+
+PROJECT 2: Automated ML Pipeline (August 2025)
+- Description: A fully automated machine learning pipeline that unifies end-to-end ML workflows from data ingestion to model evaluation and explainability.
+- Tech Stack: Python, Streamlit, Scikit-learn, SHAP, Pandas, YData Profiling
+- Key Achievements:
+  • Unified end-to-end ML workflows, cutting model development time by 55% across experimental cycles.
+  • Automated exploratory profiling over 10+ datasets, reducing manual analysis effort by 60%.
+  • Benchmarked multiple algorithms across classification and regression tasks, improving model selection confidence by 40%.
+  • Interpreted feature contributions using SHAP explainability methods, supporting transparent prediction insights.
+  • Stabilized model performance through consistent preprocessing pipelines, lowering variance-related errors by 22%.
+  • Executed training and evaluation on datasets up to 500K rows, validating scalability under load.
+- This project demonstrates Lokit's deep understanding of the full ML lifecycle and MLOps best practices.
+
+PROJECT 3: Lokit AI – Personal AI Chatbot using RAG (2025)
+- Description: A RAG-powered personal AI assistant that represents Lokit Patidar and answers questions about him using a full Retrieval-Augmented Generation pipeline.
+- Tech Stack: Python, LangChain, FAISS, Sentence-Transformers (all-MiniLM-L6-v2), Streamlit, Groq API
+- Features:
+  • Custom knowledge base built from plain-text documents about Lokit.
+  • FAISS vector database for fast semantic similarity search.
+  • Professional ChatGPT-like Streamlit UI with chat history, quick questions, and sidebar portfolio.
+  • Grounded LLM responses — the bot only answers using retrieved context, never hallucinates.
+  • Clean modular codebase with embed_data.py (indexing) and chatbot.py (inference) separation.
+- Purpose: Portfolio project that serves as an AI-powered interactive resume for recruiters and employers.
+
+Lokit's projects consistently show a pattern of:
+- Measurable impact (percentages, scale, performance numbers)
+- End-to-end delivery from data to deployed UI
+- Use of modern AI/ML tools and GenAI APIs
+- Clean, professional Streamlit interfaces

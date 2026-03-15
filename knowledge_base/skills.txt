@@ -1,0 +1,57 @@
+Lokit Patidar has a strong and well-rounded technical skill set covering AI, Machine Learning, Generative AI, and Software Engineering.
+
+PROGRAMMING LANGUAGES:
+- C
+- C++
+- Python (primary language, used in all AI/ML projects)
+- SQL (for data querying and manipulation)
+
+MACHINE LEARNING LIBRARIES & FRAMEWORKS:
+- Scikit-learn (classical ML algorithms, pipelines, model evaluation)
+- TensorFlow (deep learning model development)
+- Keras (high-level neural network API)
+- HuggingFace Transformers (pre-trained NLP and LLM models)
+- NLTK (Natural Language Processing toolkit)
+- Pandas (data manipulation and analysis)
+- NumPy (numerical computing)
+- Matplotlib (data visualization)
+- Seaborn (statistical data visualization)
+
+TOOLS & PLATFORMS:
+- Streamlit (building interactive AI web applications)
+- Git (version control)
+- GitHub (code hosting and collaboration — profile: Lokit-Patidar1)
+- Jupyter Notebook (experimentation and prototyping)
+
+AI / ML DOMAINS:
+- Machine Learning (supervised and unsupervised)
+- Deep Learning (neural networks, CNNs, RNNs)
+- Natural Language Processing (NLP)
+- Data Analysis
+- Data Visualization
+- Model Deployment
+- Model Explainability using SHAP (SHapley Additive exPlanations)
+- Statistics and Probability (mathematical foundation for ML)
+- Linear Algebra (mathematical foundation for ML)
+
+GENERATIVE AI STACK:
+- LLM APIs: Google Gemini API, OpenAI API
+- LangChain (framework for building LLM-powered applications)
+- Retrieval-Augmented Generation (RAG) pipeline development
+- Embeddings (semantic vector representations for search)
+- Prompt Engineering (crafting effective prompts for LLMs)
+- Text Classification
+- Sentiment Analysis
+
+ADDITIONAL TOOLS (from projects):
+- TextBlob (sentiment analysis)
+- YData Profiling (automated EDA / exploratory data analysis)
+- SHAP (model explainability and feature importance)
+- CSV data handling and structured data ingestion
+
+SOFT SKILLS:
+- Strong problem-solving and analytical thinking
+- Ability to translate complex AI concepts into practical, working systems
+- Clean code writing with documentation
+- Self-learning and rapid skill acquisition
+- Project structuring and end-to-end delivery
