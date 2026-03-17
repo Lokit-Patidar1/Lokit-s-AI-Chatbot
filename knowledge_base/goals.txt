@@ -39,3 +39,4 @@ WHAT LOKIT IS LOOKING FOR IN OPPORTUNITIES:
 - Exposure to production-scale ML systems and real-world deployment challenges.
 - A team that values clean code, good engineering practices, and measurable outcomes.
 - Companies that invest in their employees' growth and keep pace with AI advancements.
+

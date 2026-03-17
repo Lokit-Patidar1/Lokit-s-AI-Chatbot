@@ -40,3 +40,4 @@ Lokit's projects consistently show a pattern of:
 - End-to-end delivery from data to deployed UI
 - Use of modern AI/ML tools and GenAI APIs
 - Clean, professional Streamlit interfaces
+

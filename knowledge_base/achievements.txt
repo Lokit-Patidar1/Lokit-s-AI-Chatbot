@@ -39,3 +39,4 @@ TECHNICAL MILESTONES:
 7. Successfully participated in Amazon ML Summer School — among thousands of candidates from across India.
 8. Completed multiple industry-recognized certifications in Python, data analytics, and ML.
 9. Independently mastered the Generative AI stack including LangChain, RAG pipelines, LLM APIs (Gemini, OpenAI, Groq), embeddings, and prompt engineering — largely through self-study and project building.
+

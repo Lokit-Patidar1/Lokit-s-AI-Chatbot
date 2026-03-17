@@ -55,3 +55,4 @@ SOFT SKILLS:
 - Clean code writing with documentation
 - Self-learning and rapid skill acquisition
 - Project structuring and end-to-end delivery
+

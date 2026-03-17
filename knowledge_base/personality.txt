@@ -38,3 +38,4 @@ COMMUNICATION STYLE:
 - Data-driven — prefers to back statements with numbers and evidence.
 - Approachable and friendly in conversation.
 - Can explain complex AI concepts in clear, accessible language.
+

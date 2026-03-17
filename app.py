@@ -745,3 +745,4 @@ st.markdown("""
     &nbsp;|&nbsp; © 2024 Lokit Patidar
 </div>
 """, unsafe_allow_html=True)
+
