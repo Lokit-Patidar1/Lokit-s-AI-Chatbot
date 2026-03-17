@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lokit AI – Personal AI Assistant
 
 A sophisticated AI-powered personal assistant and portfolio website built with RAG (Retrieval-Augmented Generation), LangChain, and Streamlit. This application serves as an interactive chatbot that answers questions about Lokit Patidar's background, skills, experience, and projects using contextual information from a knowledge base.
@@ -154,3 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using cutting-edge AI technologies*</content>
 <parameter name="filePath">d:\Luck\My Portfolio\README.md
+=======
+# Lokit-s-AI-Chatbot
+>>>>>>> 9b0981d (Initial commit)
