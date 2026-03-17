@@ -146,9 +146,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Lokit Patidar**
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio URL]
-- Email: [your.email@example.com]
+- LinkedIn: [https://www.linkedin.com/in/lokit-patidar/]
+- Portfolio: []
+- Email: [lokitpatidar17@gmail.com]
 
 ---
 
