@@ -102,6 +102,12 @@ def _create_retriever(vector_store):
 def _create_llm():
     groq_api_key = os.getenv("GROQ_API_KEY")
     if not groq_api_key:
+        try:
+            import streamlit as st
+            groq_api_key = st.secrets.get("GROQ_API_KEY")
+        except Exception:
+            groq_api_key = None
+    if not groq_api_key:
         raise EnvironmentError(
             "\n"
             "╔══════════════════════════════════════════════════════════╗\n"
