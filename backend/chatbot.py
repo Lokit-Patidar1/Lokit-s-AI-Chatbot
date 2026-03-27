@@ -133,13 +133,17 @@ def _create_llm():
 def _initialise():
     global _vector_store, _retriever, _llm, _prompt
     _check_vector_db_exists()
-    _vector_store = _load_vector_store()
-    _retriever = _create_retriever(_vector_store)
-    _llm = _create_llm()
-    _prompt = PromptTemplate(
+    vector_store = _load_vector_store()
+    retriever = _create_retriever(vector_store)
+    llm = _create_llm()
+    prompt = PromptTemplate(
         input_variables=["context", "question"],
         template=PROMPT_TEMPLATE,
     )
+    _vector_store = vector_store
+    _retriever = retriever
+    _llm = llm
+    _prompt = prompt
 
 # HELPER: FORMAT RETRIEVED DOCUMENTS INTO A SINGLE CONTEXT STRING
 def _format_context(docs: list[Document]) -> str:
@@ -157,8 +161,16 @@ def ask_bot(user_input: str) -> str:
     if not user_input or not user_input.strip():
         return "Please ask me something about Lokit — I'm here to help! 😊"
     global _vector_store, _retriever, _llm, _prompt
-    if _retriever is None:
-        _initialise()
+    if _retriever is None or _llm is None or _prompt is None:
+        try:
+            _initialise()
+        except Exception as e:
+            return (
+                f"âš ï¸ An error occurred while starting the chatbot.\n\n"
+                f"**Error details:** {str(e)}\n\n"
+                "Please check your API key and ensure the FAISS index exists, "
+                "then try again."
+            )
 
     try:
         relevant_docs = _retriever.invoke(user_input.strip())
