@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Lokit AI – Personal AI Assistant
 
 A sophisticated AI-powered personal assistant and portfolio website built with RAG (Retrieval-Augmented Generation), LangChain, and Streamlit. This application serves as an interactive chatbot that answers questions about Lokit Patidar's background, skills, experience, and projects using contextual information from a knowledge base.
 
-## 🚀 Features
+##  Features
 
 - **Interactive Chat Interface**: Modern, responsive chat UI with dark theme and smooth animations
 - **RAG-Powered Responses**: Uses retrieval-augmented generation for accurate, context-aware answers
@@ -12,7 +11,7 @@ A sophisticated AI-powered personal assistant and portfolio website built with R
 - **Mobile Responsive**: Optimized for both desktop and mobile devices
 - **Real-time Streaming**: Live response streaming for better user experience
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Streamlit**: Web framework for the chat interface
@@ -43,7 +42,7 @@ A sophisticated AI-powered personal assistant and portfolio website built with R
 - OpenAI API key (or Groq API key for faster responses)
 - Knowledge base documents (PDFs, text files about Lokit)
 
-## 🏗️ Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
@@ -80,7 +79,7 @@ A sophisticated AI-powered personal assistant and portfolio website built with R
    python backend/embed_data.py
    ```
 
-## 🚀 Usage
+##  Usage
 
 1. **Start the application:**
    ```bash
@@ -95,7 +94,7 @@ A sophisticated AI-powered personal assistant and portfolio website built with R
    - Download the resume using the sidebar button
    - Explore different conversation topics
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 My Portfolio/
@@ -132,7 +131,7 @@ Currently configured to use Groq API. To switch to OpenAI:
 - **Chunk Size**: Text chunk size for embedding (default: 1000 characters)
 - **Overlap**: Chunk overlap for better context (default: 200 characters)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -153,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ using cutting-edge AI technologies*</content>
+*Built with using cutting-edge AI technologies*</content>
 <parameter name="filePath">d:\Luck\My Portfolio\README.md
 =======
 # Lokit-s-AI-Chatbot
